@@ -56,6 +56,6 @@ Each sends the command `SW <input> <output>` to the matrix via HTTP POST.
 ## 🙌 Credits
 
 Developed by **timcloud**  
-Assisted by [ChatGPT from OpenAI](https://openai.com/chatgpt)
+
 
 MIT License
